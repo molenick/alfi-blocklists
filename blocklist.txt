@@ -1,0 +1,29 @@
+# roku
+collector-roku.tvsquared.com
+ravm.tv
+images.sr.roku.com
+captive.roku.com
+authentication.mgo.com
+api.roku.com
+api.sr.roku.com
+api2.sr.roku.com
+configsvc.cs.roku.com
+keysvc.cs.roku.com
+cloudservices.roku.net
+www-roku.mgo.com
+c-ls.mgo-images.com
+lat-services.api.data.roku.com
+
+# spotify
+quicksilver.scdn.co
+i.scdn.co
+
+# google
+eligibility-panelresearch.googlevideo.com
+
+# pbs
+content.services.pbs.org
+
+# disabled
+# longview.sw.roku.com # roku tv update url
+# ga.video.cdn.pbs.org # this one crashes pbs - prob ads
